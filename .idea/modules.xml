@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleci-testing.iml" filepath="$PROJECT_DIR$/.idea/modules/circleci-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleci-testing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/circleci-testing_main.iml" group="circleci-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleci-testing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/circleci-testing_test.iml" group="circleci-testing" />
     </modules>
   </component>
 </project>
